@@ -4,7 +4,7 @@
   "description": "npm project for fcc",
   "main": "index.js",
   "scripts": {
-    "test": "print 'hello world'"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
