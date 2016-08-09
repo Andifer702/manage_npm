@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "npm project for fcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "print 'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andifer702"
+  },
+  "keywords": [
+    "npm",
+    "project"
+  ],
+  "author": "Joon Park",
+  "license": "ISC"
+}
