@@ -15,5 +15,8 @@
     "project"
   ],
   "author": "Joon Park",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
